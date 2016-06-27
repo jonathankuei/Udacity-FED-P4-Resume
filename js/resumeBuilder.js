@@ -1,53 +1,53 @@
 var bio = {
 	"name": "Jonathan Kuei Chao",
-	"role": "Digital Creative",
-	"welcomeMessage": "Hi! My Name is Jon and I'm a Digital Creative based in New York City.",
+	"role": "Front-End Developer & Designer",
+	"welcomeMessage": "Hi! My Name is Jon and I'm a Front-End Developer and Designer based in Los Angeles.",
 	"contacts": {
 		"mobile": "555-555-5555",
 		"email": "jonathankuei@gmail.com",
 		"github": "jonathankuei",
-		"location": "New York, NY"
+		"location": "Los Angeles, CA"
 	},
 	"skills": ["Front-End Development", "Graphic Design", "Digital Marketing"],
-	"biopic": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAASFAAAAJGI3NWMwZjdlLWQzY2MtNDNjOS05MzgwLTk2ZDViMmZjYzdjZg.jpg"
+	"biopic": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAg2AAAAJGZjNzY1ZTI1LTUyNGUtNDJlMS1iM2Y3LTRmMzNmOGRkNzIzMw.jpg"
 };
 
 var work = {
 	"jobs": [
 		{
 			"employer": "Tidal New York",
-			"title": "E-Commerce Manager",
+			"title": "E-Commerce Developer",
 			"location": "New Rochelle, NY",
 			"dates": "October 2015 - Present",
-			"description": "Develop an e-commerce platform and lead digital roadmap for an upstart footwear company carried at retailers ranging from high end department stores like Bloomingdale's to specialty boutiques, such as VFILES and The Whitney Museum."
+			"description": "Design and develop an e-commerce store for an upstart footwear company and integrate backend functions including inventory management, sales reporting, and logistics planning"
 		},
 		{
 			"employer": "The Foundation Showroom",
-			"title": "Freelance Social Media Coordinator",
+			"title": "Social Media Coordinator",
 			"location": "New York, NY",
 			"dates": "August 2015 - March 2016",
-			"description": "Built a comprehensive social media plan for an industry leading showroom representing emerging and established brands, including Diadora, Under Armour, Spiewak, and Marshall Headphones."
+			"description": "Overhauled social media strategy for an industry leading showroom representing emerging and established brands, including Under Armour, Diadora, and Marshall Headphones"
 		},
 		{
 			"employer": "Tanya Taylor",
 			"title": "Freelance Graphic Designer",
 			"location": "New York, NY",
 			"dates": "November 2014 - November 2015",
-			"description": "Created graphic assets for launch of new website and e-commerce platform, which was nominated for W Magazine and Decoded Fashion's New e-Store on the Block award."
+			"description": "Created graphic assets for launch of new website and e-commerce platform, which was nominated for W Magazine and Decoded Fashion's New e-Store on the Block award"
 		},
 		{
-			"employer": "The Denesh Group",
-			"title": "Creative Coordinator",
+			"employer": "Billionaire Boys Club, Trapstar London, A Ma Maniére",
+			"title": "Freelance Creative",
 			"location": "New York, NY",
 			"dates": "January 2014 - July 2015",
-			"description": "Conducted trend research, created line plans, devised branding, and guided the design team to create new product lines for Billionaire Boys Club, Trapstar London, Tidal New York, 3•W•Y, and private labels for several North American boutiques."
+			"description": "Conducted trend research, created line plans, devised branding, and guided the design team to create new product lines and private label collections"
 		},
 		{
 			"employer": "Parke and Ronen",
 			"title": "Digital Marketing Associate",
 			"location": "New York, NY",
-			"dates": "December 2014 - December 2015",
-			"description": "Developed and implemented a comprehensive SEM strategy resulting in over 40% increase in the online boutique’s monthly revenue."
+			"dates": "December 2012 - December 2013",
+			"description": "Redesigned company website and implemented a comprehensive SEM strategy that increased e-commerce monthly revenue by over 40%"
 		}
 	]
 };
