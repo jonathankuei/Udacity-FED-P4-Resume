@@ -16,10 +16,10 @@ var work = {
 	"jobs": [
 		{
 			"employer": "Tidal New York",
-			"title": "E-Commerce Developer",
+			"title": "Front-End Web Developer",
 			"location": "New Rochelle, NY",
 			"dates": "October 2015 - Present",
-			"description": "Design and develop an e-commerce store for an upstart footwear company and integrate backend functions including inventory management, sales reporting, and logistics planning"
+			"description": "Design and develop an e-commerce store for a footwear brand and integrate backend functions including inventory management, sales reporting, and logistics planning"
 		},
 		{
 			"employer": "The Foundation Showroom",
@@ -36,7 +36,7 @@ var work = {
 			"description": "Created graphic assets for launch of new website and e-commerce platform, which was nominated for W Magazine and Decoded Fashion's New e-Store on the Block award"
 		},
 		{
-			"employer": "Billionaire Boys Club, Trapstar London, A Ma Maniére",
+			"employer": "Billionaire Boys Club, A Maniére, La Maison Simons",
 			"title": "Freelance Creative",
 			"location": "New York, NY",
 			"dates": "January 2014 - July 2015",
@@ -189,6 +189,3 @@ work.display();
 projects.display();
 education.display();
 $("#mapDiv").append(googleMap);
-
-
-
