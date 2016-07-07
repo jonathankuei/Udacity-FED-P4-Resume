@@ -19,7 +19,7 @@ var work = {
 			"title": "Front-End Web Developer",
 			"location": "New Rochelle, NY",
 			"dates": "October 2015 - Present",
-			"description": "Design and develop an e-commerce store for a footwear brand and integrate backend functions including inventory management, sales reporting, and logistics planning"
+			"description": "Design and develop a responsive e-commerce store for a footwear brand and integrate backend functions including inventory management, sales reporting, and logistics planning"
 		},
 		{
 			"employer": "The Foundation Showroom",
